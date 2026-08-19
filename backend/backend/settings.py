@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-c8go#b=+hx(6u584@)21^qt0$*mb06nlp)%$b)qv(ft^!4t+1i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = "jsx-egvg.onrender.com", "localhost", "127.0.0.1",
 
 
 # Application definition
@@ -70,7 +70,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = 'http://localhost:5173', "http://127.0.0.1:5173",
+CORS_ALLOWED_ORIGINS = 'https://jsx-egvg.onrender.com', 'http://localhost:5173', 'http://127.0.0.1:5173',
 
 ROOT_URLCONF = 'backend.urls'
 
