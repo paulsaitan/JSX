@@ -4,6 +4,7 @@ const PaymentSuccess = () => {
   return (
     <main className="flex min-h-screen items-center justify-center bg-gray-50 px-4">
       <div className="w-full max-w-md rounded-2xl bg-white p-8 text-center shadow-sm">
+        
         <div className="text-5xl">✓</div>
 
         <h1 className="mt-4 text-2xl font-bold text-gray-900">
@@ -16,10 +17,11 @@ const PaymentSuccess = () => {
 
         <Link
           to="/"
-          className="mt-6 inline-block rounded-xl bg-black px-6 py-3 font-semibold text-white transition hover:bg-gray-800"
+          className="mt-6 inline-block rounded-xl bg-black px-6 py-3 font-semibold text-white"
         >
           Back to Homepage
         </Link>
+
       </div>
     </main>
   );

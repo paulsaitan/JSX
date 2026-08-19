@@ -54,7 +54,7 @@ const Register = () => {
           {/* Mobile Logo */}
           <div className="mb-10 flex items-center gap-3 lg:hidden">
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-black text-lg font-bold text-white">
-              S
+              AP
             </div>
 
             <span className="text-xl font-bold text-gray-900">AedzPaul</span>
