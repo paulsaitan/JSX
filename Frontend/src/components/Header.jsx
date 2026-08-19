@@ -24,7 +24,7 @@ const Header = () => {
           </div>
 
           <span className="text-xl font-bold tracking-tight text-gray-900">
-            Shoply
+            AedzPaul
           </span>
         </Link>
 

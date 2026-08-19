@@ -57,7 +57,7 @@ const Register = () => {
               S
             </div>
 
-            <span className="text-xl font-bold text-gray-900">Shoply</span>
+            <span className="text-xl font-bold text-gray-900">AedzPaul</span>
           </div>
 
           {/* Header */}
@@ -67,7 +67,7 @@ const Register = () => {
             </p>
 
             <h2 className="mt-3 text-3xl font-bold tracking-tight text-gray-900">
-              Get started with Shoply
+              Get started with AedzPaul Shop
             </h2>
 
             <p className="mt-3 text-gray-600">
