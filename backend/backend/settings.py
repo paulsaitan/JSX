@@ -70,7 +70,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = 'https://jsx-egvg.onrender.com', 'http://localhost:5173', 'http://127.0.0.1:5173',
+CORS_ALLOWED_ORIGINS = 'https://jsx-aedz.vercel.app', 'http://localhost:5173', 'http://127.0.0.1:5173',
 
 ROOT_URLCONF = 'backend.urls'
 
