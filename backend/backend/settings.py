@@ -145,4 +145,4 @@ STATIC_URL = 'static/'
 MEDIA_URL = '/images/'
 MEDIA_ROOT = 'static/images'
 
-XENDIT_SECRET_KEY = os.getenv("xnd_development_r0UOvrEuX0dGL80QnLyHuzyTCak6C6l91wb7Q4kmkMlUvzN4qVynHMqvwNiKQO")
+XENDIT_SECRET_KEY = os.getenv("XENDIT_SECRET_KEY")
